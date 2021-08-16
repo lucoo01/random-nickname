@@ -1,9 +1,9 @@
-## ramdon-name ##
+## ramdon-nickname ##
 ## 生成随机昵称，随机姓名，男生姓名，女生姓名 ##
 
 ## 使用方法 ##
 ## download##
-    在需要用到的文件引用即可 // import randomName from 'youpath/random-name'
+    在需要用到的文件引用即可 // import randomName from 'youpath/random-nickname'
 
 生成一个名字（男女不限）
 
